@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-composer require your-name/dingtalk-robot
+composer require ljguo-latex/dingtalk-robot
 ```
 
 ## 快速开始
