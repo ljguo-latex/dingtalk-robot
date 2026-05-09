@@ -5,8 +5,8 @@ require __DIR__ . '/vendor/autoload.php';
 use DingTalk\Robot;
 
 $robot = new Robot(
-    '3dcbd60487421963d01fef5970717ae6b45023f764e8d9c4c07d5febbf62d650',
-    'SEC1296a373fd735f4401acc247a362ec13865d2e4fb1579c6d37ff5a11fded2a4f'
+    'your_access_token_here',
+    'your_signing_secret_here'
 );
 
 // 1. 文本消息，@指定手机号
